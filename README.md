@@ -219,4 +219,4 @@ VueScan is available as a **free download** for Windows users, providing the com
 Ready to take control of your scanning tasks? Download VueScan now and experience the difference!
 
 ---
-**Last updated:** 2026-09-23 18:49:40 UTC
+**Last updated:** 2026-09-23 22:02:48 UTC
